@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abhijit, a front-end developer 👨‍💻, with ⚽ on weekends, and trying to friends with JS🚀</div>  
+### <div align="center">I'm Abhijit, a front-end developer 👨‍💻, with ⚽ on weekend, and trying to be friends with JS🚀</div>  
   
 
 - 🔭 I’m currently working on [Nou Store](https://github.com/abhijitdotsharma/nou-store-react)  
