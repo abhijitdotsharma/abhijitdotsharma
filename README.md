@@ -6,7 +6,7 @@
 ### <div align="center">I'm Abhijit, a front-end developer 👨‍💻, with ⚽ on weekend, and trying to be friends with JS🚀</div>  
   
 
-- 🔭 I’m currently working on [Nou Store](https://github.com/abhijitdotsharma/nou-store-react)  
+- 🔭 I’m currently working on [Vadati](https://github.com/abhijitdotsharma/vadati-chrome-store)
   
 
 - 🌱 I’m currently learning TypeScript and Testing  
