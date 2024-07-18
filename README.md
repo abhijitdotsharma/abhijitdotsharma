@@ -6,10 +6,10 @@
 ### <div align="center">I'm Abhijit, a front-end developer 👨‍💻, with ⚽ on weekend, and trying to be friends with JS🚀</div>  
   
 
-- 🔭 I’m currently working on [Vadati](https://github.com/abhijitdotsharma/vadati-chrome-store)
+- 🔭 I’m currently working on [WegeToTelegram](https://github.com/abhijitdotsharma/wege-to-telegram/)
   
 
-- 🌱 I’m currently learning TypeScript and Testing  
+- 🌱 I’m currently learning Pupeeteer  
   
 
 - ❓ I love to talk about Web and JavaScript in general. Hit me up  
